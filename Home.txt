@@ -1,0 +1,13 @@
+ <!DOCTYPE html>
+<html >
+<head>
+    <meta charset="UTF-8">
+   
+    <title> اركان الاسلام</title>
+</head>
+<body dir="rtl" background ="images\bc.png.">
+  
+
+  
+</body>
+</html>
